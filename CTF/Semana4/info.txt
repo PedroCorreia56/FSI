@@ -1,0 +1,3 @@
+Wordpress: 5.8.1
+WooCommerce: 5.7.1
+Booster: 5.4.3 -> https://www.exploit-db.com/exploits/50299

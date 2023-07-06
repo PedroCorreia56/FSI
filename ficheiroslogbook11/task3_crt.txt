@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4100 (0x1004)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = PT, ST = Porto, L = Porto, O = FEUP, OU = grupo6, CN = Pedro, emailAddress = up202006199@up.pt
+        Validity
+            Not Before: Dec 11 21:28:21 2022 GMT
+            Not After : Dec  8 21:28:21 2032 GMT
+        Subject: C = US, O = Grupo6 Inc., CN = www.grupo6.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:df:6f:b5:a7:86:5a:e3:b1:b8:7f:be:5b:1a:d8:
+                    ec:de:1b:23:12:39:69:aa:42:74:e5:ac:a0:f5:54:
+                    b9:67:67:68:7e:94:ac:fd:ca:62:5e:35:cf:0d:b3:
+                    0e:a5:e3:e3:8c:06:9f:2b:e8:51:2f:18:84:3b:4d:
+                    62:e0:1f:83:11:d3:2d:f4:9a:39:ed:f0:2c:ba:87:
+                    89:5a:4c:25:72:51:88:6f:af:34:fa:f9:46:90:2c:
+                    d3:68:f9:bf:fd:48:d6:4e:1e:26:dc:7e:ca:89:6c:
+                    10:2d:3b:10:fb:d5:af:16:89:6d:a6:3d:2a:f4:5a:
+                    be:de:ee:5d:33:03:10:43:a5:7e:65:1f:64:1a:de:
+                    5c:b3:88:79:80:4c:5f:da:2d:c3:8f:6c:c6:55:3b:
+                    42:07:61:ea:ed:12:46:96:fb:91:d8:db:ef:2f:a8:
+                    e9:10:de:6f:31:55:6f:5c:24:b6:ee:29:9c:75:b4:
+                    6a:4b:4c:15:6f:e4:57:d3:f8:e2:8e:90:0d:d2:84:
+                    5f:19:24:8e:9b:82:f4:51:fb:4b:39:1e:92:b4:4b:
+                    d0:c6:3f:2e:7a:2f:9c:ef:d3:4b:76:5b:a3:bd:b0:
+                    a6:da:7a:80:7b:4b:f9:2c:96:90:cf:a2:e2:53:21:
+                    f4:0a:e3:ff:d0:1f:27:7a:97:1e:2e:49:69:9a:ad:
+                    d7:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                82:CC:0B:F8:6A:10:E6:48:2F:6E:D4:4A:6E:92:72:DC:65:BF:C9:BC
+            X509v3 Authority Key Identifier: 
+                keyid:84:13:C7:27:6C:F6:72:09:02:6B:26:62:6E:EC:BC:EF:C4:0B:BF:2B
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.grupo6.com, DNS:www.grupo66.com, DNS:www.grupo69.com
+    Signature Algorithm: sha256WithRSAEncryption
+         c2:20:e4:43:1d:27:c1:0f:4e:d6:e0:70:df:6b:18:64:0f:da:
+         ed:07:b9:56:61:9a:79:08:ea:df:a6:b5:e0:d4:42:35:dc:f7:
+         f5:4b:1e:87:36:bd:eb:e5:6f:8f:7b:af:25:a4:f9:99:cf:90:
+         e0:af:83:01:f4:6e:b2:d3:59:9a:66:af:27:a9:1b:b4:7c:7d:
+         10:1f:fe:c6:4d:47:2b:be:e8:d2:4d:bb:96:8d:38:a6:db:29:
+         1d:0b:bf:34:52:29:3e:a2:15:9f:c2:8f:17:76:a4:32:a4:b7:
+         3f:b7:63:94:66:18:6b:9e:fb:c8:7f:f5:2f:36:1e:ac:d9:62:
+         98:40:b0:72:d4:06:ed:39:9a:db:8e:6a:28:a8:6c:ca:59:59:
+         85:e0:52:e2:c1:cc:36:a4:61:ad:88:4a:08:0b:fb:94:b4:df:
+         22:7a:9d:ae:26:65:8e:dc:d7:62:80:f3:08:6e:d1:11:95:9d:
+         37:0d:4b:76:c9:b2:16:0c:7a:1e:7a:20:19:42:ae:e2:a1:3f:
+         65:fc:43:95:a2:b7:da:11:44:19:2c:97:04:ae:79:7b:a7:5c:
+         a6:7c:75:28:29:78:d2:9b:37:3e:12:21:62:e6:d6:f9:04:28:
+         61:7b:29:a2:ee:22:35:09:b1:f2:01:bc:ad:48:cc:22:7f:ff:
+         df:b4:76:42:13:90:eb:3f:fb:a7:61:ef:f3:c3:83:f1:39:00:
+         e2:ae:cd:57:65:69:95:3f:61:8b:d0:e0:af:4f:af:b0:18:d8:
+         83:e5:61:2b:26:28:4c:bd:9a:6a:73:5d:44:84:5e:ac:48:2d:
+         39:79:ca:c7:89:02:75:cb:5f:b7:5a:eb:10:0b:7a:b6:33:2e:
+         e3:e5:ba:f6:bd:2e:aa:d7:2b:28:f7:b6:46:d5:42:b1:14:ff:
+         ca:ea:84:00:31:47:7f:8c:52:2d:74:71:7a:56:03:c2:09:93:
+         3a:22:10:73:76:14:1f:25:23:69:24:79:d1:29:8d:69:32:f8:
+         67:8c:e5:5d:20:94:5f:a5:53:d4:ee:4f:73:e4:d1:3c:82:77:
+         de:99:34:d9:61:e5:6c:f2:d1:60:ff:0a:e3:bb:72:8a:e3:f6:
+         93:73:8c:01:80:af:cc:eb:9a:a5:51:ef:65:87:9a:73:af:cf:
+         32:6d:43:24:7b:be:3a:31:25:a0:68:59:2e:d6:a5:00:12:ed:
+         ce:04:dd:fd:58:c8:34:79:81:52:d1:0f:2b:8a:9a:6e:64:50:
+         f1:4a:ab:ef:7b:07:55:2c:86:e8:d2:ad:5a:08:f2:ee:b3:93:
+         0c:6b:bb:a8:96:7c:62:f7:87:14:8b:93:24:35:10:96:0a:ee:
+         8e:0d:3c:d9:1d:42:9e:5e
